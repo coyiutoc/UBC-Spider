@@ -1,0 +1,13 @@
+beautifulsoup4==4.7.1
+certifi==2019.3.9
+chardet==3.0.4
+gender-guesser==0.4.0
+idna==2.8
+Js2Py==0.63
+pyjsparser==2.7.1
+pytz==2019.1
+requests==2.22.0
+six==1.12.0
+soupsieve==1.9.1
+tzlocal==1.5.1
+urllib3==1.25.3
