@@ -2,7 +2,13 @@
 
 Spider that performs search queries by faculty name on the [UBC Faculty Directory](https://directory.ubc.ca/index.cfm?).
 
-Returns position, department and gender.
+Returns position, department and gender on console.
+
+To change names to search, modify array `NAMES` in `spider.py`. Assumes names are in `lastname firstname middlename` order.
+
+## Prerequisites
+
+[Python3](https://wiki.python.org/moin/BeginnersGuide/Download)
 
 ## Setup
 
